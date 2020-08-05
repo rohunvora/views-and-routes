@@ -1,0 +1,23 @@
+{
+  "name": "views-and-routes",
+  "version": "1.0.0",
+  "description": "A deliverable for GA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohunvora/views-and-routes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohunvora/views-and-routes/issues"
+  },
+  "homepage": "https://github.com/rohunvora/views-and-routes#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
